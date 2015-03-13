@@ -1,0 +1,1 @@
+Lets you solve the Sudoku Cube in a similar manner to how one would solve the Rubik's Cube.
